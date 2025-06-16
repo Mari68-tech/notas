@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afcb39b14716777e",
+            "id": "ec237eb6d025b784",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sin títulohelo.md",
+                "file": "mama/Sin título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin títulohelo"
+              "title": "Sin título"
             }
           }
         ]
@@ -151,9 +151,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "afcb39b14716777e",
+  "active": "d6b8016e0abd16cc",
   "lastOpenFiles": [
+    "holi.md",
+    "mama/Sin título.md",
     "Sin títulohelo.md",
+    "mama",
     "Test/Test.md",
     "Test2.md",
     "Test",
