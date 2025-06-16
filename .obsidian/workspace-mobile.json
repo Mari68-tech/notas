@@ -11,10 +11,14 @@
             "id": "afcb39b14716777e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sin títulohelo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Sin títulohelo"
             }
           }
         ]
@@ -147,8 +151,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d6b8016e0abd16cc",
+  "active": "afcb39b14716777e",
   "lastOpenFiles": [
+    "Sin títulohelo.md",
     "Test/Test.md",
     "Test2.md",
     "Test",
