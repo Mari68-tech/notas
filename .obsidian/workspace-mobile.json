@@ -11,14 +11,10 @@
             "id": "ec237eb6d025b784",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNIVERSIDAD.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "UNIVERSIDAD"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -151,9 +147,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ec237eb6d025b784",
+  "active": "d6b8016e0abd16cc",
   "lastOpenFiles": [
+    "UNIVERSIDAD/Sin nombre",
     "UNIVERSIDAD.md",
+    "UNIVERSIDAD",
     "mama/Sin título.md",
     "holi.md",
     "Sin títulohelo.md",
