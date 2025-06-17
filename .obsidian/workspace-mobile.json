@@ -11,12 +11,14 @@
             "id": "ec237eb6d025b784",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "UNIVERSIDAD/MICROBIOLOGÍA/Microbiología.pdf"
+                "file": "ESTUDIOS/HEMOGRAMA/ESQUEMA DE ESTUDIO/🩸Hemograma.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Microbiología"
+              "icon": "lucide-file",
+              "title": "🩸Hemograma"
             }
           }
         ]
@@ -151,9 +153,9 @@
   },
   "active": "ec237eb6d025b784",
   "lastOpenFiles": [
+    "UNIVERSIDAD/MICROBIOLOGÍA/Microbiología.pdf",
     "ESTUDIOS/EKG/ESQUEMA DE ESTUDIO/💛 EKG.md",
     "ESTUDIOS/HEMOGRAMA/ESQUEMA DE ESTUDIO/🩸Hemograma.md",
-    "UNIVERSIDAD/MICROBIOLOGÍA/Microbiología.pdf",
     "ESTUDIOS/HEMOGRAMA/RESUMEN",
     "ESTUDIOS/HEMOGRAMA/ESQUEMA DE ESTUDIO",
     "ESTUDIOS/ANTIBIOGRAMA/RESUMEN",
