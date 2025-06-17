@@ -103,7 +103,7 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
-          "title": "Backlinks"
+          "title": "Enlaces entrantes"
         }
       },
       {
@@ -147,7 +147,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ec237eb6d025b784",
+  "active": "c0edf5bf2df040f3",
   "lastOpenFiles": [
     "mama/Sin título.md",
     "holi.md",
