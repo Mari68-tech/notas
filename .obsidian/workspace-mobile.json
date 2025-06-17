@@ -11,14 +11,12 @@
             "id": "ec237eb6d025b784",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ESTUDIOS/HEMOGRAMA/ESQUEMA DE ESTUDIO/🩸Hemograma.md",
-                "mode": "source",
-                "source": false
+                "file": "UNIVERSIDAD/MICROBIOLOGÍA/Microbiología.pdf"
               },
-              "icon": "lucide-file",
-              "title": "🩸Hemograma"
+              "icon": "lucide-file-text",
+              "title": "Microbiología"
             }
           }
         ]

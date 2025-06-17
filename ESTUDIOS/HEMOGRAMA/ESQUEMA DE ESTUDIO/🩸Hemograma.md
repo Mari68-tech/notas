@@ -1,5 +1,3 @@
-
-
 Introducción
 
 - [https://www.youtube.com/watch?v=N6GUJ97GvKE&pp=ygUjaGVtb2dyYW1hIHR1dG9yaWFzIG1lZGljaW5hIGludGVybmE%3D](https://www.youtube.com/watch?v=N6GUJ97GvKE&pp=ygUjaGVtb2dyYW1hIHR1dG9yaWFzIG1lZGljaW5hIGludGVybmE%3D)
@@ -23,4 +21,3 @@ Interpretación
 - [https://www.youtube.com/watch?v=VH6jMDkKbEA&t=65s&pp=ygUYaGVtb2dyYW1hIGludGVycHJldGFjaW9u](https://www.youtube.com/watch?v=VH6jMDkKbEA&t=65s&pp=ygUYaGVtb2dyYW1hIGludGVycHJldGFjaW9u)
 - [https://www.youtube.com/watch?v=p5_WW81vKtY&pp=ygUWY29tbyBsZWVyIHVuIGhlbW9ncmFtYQ%3D%3D](https://www.youtube.com/watch?v=p5_WW81vKtY&pp=ygUWY29tbyBsZWVyIHVuIGhlbW9ncmFtYQ%3D%3D)
 
-/
