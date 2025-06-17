@@ -11,12 +11,14 @@
             "id": "ec237eb6d025b784",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "UNIVERSIDAD/MICROBIOLOGÍA/Microbiología.pdf"
+                "file": "ESTUDIOS/EKG/ESQUEMA DE ESTUDIO/EKG.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Microbiología"
+              "icon": "lucide-file",
+              "title": "EKG"
             }
           }
         ]
@@ -149,8 +151,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d6b8016e0abd16cc",
+  "active": "ec237eb6d025b784",
   "lastOpenFiles": [
+    "UNIVERSIDAD/MICROBIOLOGÍA/Microbiología.pdf",
+    "ESTUDIOS/EKG/ESQUEMA DE ESTUDIO/EKG.md",
     "ESTUDIOS/HEMOGRAMA/RESUMEN",
     "ESTUDIOS/HEMOGRAMA/ESQUEMA DE ESTUDIO",
     "ESTUDIOS/ANTIBIOGRAMA/RESUMEN",
@@ -161,7 +165,6 @@
     "ESTUDIOS/HEMOGRAMA",
     "ESTUDIOS/EKG",
     "ESTUDIOS",
-    "UNIVERSIDAD/HISTOEMBRIOLOGÍA/Histoembriología.pdf",
     "2025-06-17.md",
     "Sin título.md",
     "UNIVERSIDAD.md",
