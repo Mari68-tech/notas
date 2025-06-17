@@ -11,14 +11,10 @@
             "id": "ec237eb6d025b784",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sin título.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -151,7 +147,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ec237eb6d025b784",
+  "active": "d6b8016e0abd16cc",
   "lastOpenFiles": [
     "Sin título.md",
     "Sin nombre",
