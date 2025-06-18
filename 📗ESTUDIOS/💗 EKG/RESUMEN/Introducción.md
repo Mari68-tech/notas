@@ -1,4 +1,5 @@
 **Sistema eléctrico cardíaco** 
 Hay ciertas corrientes
-ódulo sinoauricular
+- nódulo sinoauricular: en la parte superolateral del corazón al lado de la vena cava, genera impulsora. Través de tres ases:
+-
 
