@@ -39,4 +39,4 @@ Esto se ve asi si el electrodo está ahí donde se muestra, pero si se pone en o
 Nos hablan por caras
 - V1,V2: caras septales
 - V3,V4: caras anteriores (apice)
-- V5,V6: 
+- V5,V6: caras lateral inferior (la superior la ve D1 y AVL)
