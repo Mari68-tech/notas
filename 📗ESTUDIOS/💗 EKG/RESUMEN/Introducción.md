@@ -19,4 +19,4 @@ Para entenderlo mejor seria algo asi las ondas
 - onda Q: es la despolarizacion del septum (haz de his esta en el lado izquierdo) los impulsos que genera va hacia la derecha, es decir se aleja del electrodo por eso esta negativa
 - onda R: se despolariza todo el ventrículos derecho, va hacia el electrodo por eso es positiva
 - onda S: despolarizacion del resto de los ventrículos que se alejan del electrodo por eso esta negativa
-
+![[]]
