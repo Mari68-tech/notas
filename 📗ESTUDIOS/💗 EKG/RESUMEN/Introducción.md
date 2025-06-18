@@ -31,7 +31,8 @@ Esto se ve asi si el electrodo está ahí donde se muestra, pero si se pone en o
 ![[d.jpg|400x300]]
 
 - aVR (right), aVL (left), aVF (foot): son unipolares aumentadas
-
+![[avl.jpg|400x300]]
+!
 - V1,2,3,4,5,6: unipolares, las que estan en el tórax
 ### Derivaciones bipolares
 
