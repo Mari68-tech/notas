@@ -9,4 +9,7 @@ Hay ciertas corrientes
 Todos los impulsos electricos se traducen a ondas
 ![[IMG_20250618_143548.jpg|450x250]]
 Existe una teoría de vectores, la cual dice lo siguiente
-Al px se le pondrán electrodos en el cuerpo, si la onda va hacia la direccion de ese electrodo entonces la onda se vera positiva en el EKG, al contrario si la onda se despolariza para el otro lado del electrodo se vería negat
+Al px se le pondrán electrodos en el cuerpo, y pueden ocurrir tres situaciones
+- Si la onda va hacia la direccion de ese electrodo entonces la onda se vera positiva en el EKG
+- Si la onda se despolariza para el otro lado del electrodo se vería negativa
+- si la onda no se aleja ni se 
