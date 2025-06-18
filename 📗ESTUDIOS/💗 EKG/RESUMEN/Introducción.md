@@ -16,4 +16,5 @@ Al px se le pondrán electrodos en el cuerpo, y pueden ocurrir tres situaciones
 ![[Screenshot_20250618-144830~2.png]]
 Para entenderlo mejor seria algo asi las ondas
 - onda P: que es la despolarizacion de las auriculas va en dirección hacia el electrodo por eso se ve positiva
-- onda Q: es la despolarizacion del septum (haz de his se va hac)
+- onda Q: es la despolarizacion del septum (haz de his esta en el lado izquierdo) los impulsos que genera va hacia la derecha, es decir se aleja del electrodo por eso esta negativa
+- onda R: se despolariza todo el ventrículos derecho, va hacia el electrodo
