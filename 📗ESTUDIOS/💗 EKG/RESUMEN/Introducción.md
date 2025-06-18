@@ -9,3 +9,4 @@ Hay ciertas corrientes
 Todos los impulsos electricos se traducen a ondas
 ![[IMG_20250618_143548.jpg|450x250]]
 Existe una teoría de vectores, la cual dice lo siguiente
+Al px se le pondrán electrodos en el cuerpo, si la onda va hacia la d
