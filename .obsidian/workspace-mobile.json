@@ -11,14 +11,12 @@
             "id": "ec237eb6d025b784",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Jelow.md",
-                "mode": "source",
-                "source": false
+                "file": "🎓 UNIVERSIDAD/🧫 MICROBIOLOGÍA/Microbiología.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Jelow"
+              "icon": "lucide-file-text",
+              "title": "Microbiología"
             }
           }
         ]
@@ -153,8 +151,9 @@
   },
   "active": "ec237eb6d025b784",
   "lastOpenFiles": [
-    "🎓 UNIVERSIDAD/🧫 MICROBIOLOGÍA/Microbiología.pdf",
     "Jelow.md",
+    "IMG-20250617-WA0043 (1).jpg",
+    "🎓 UNIVERSIDAD/🧫 MICROBIOLOGÍA/Microbiología.pdf",
     "IMG-20250617-WA0043.jpg",
     "jeje/jjejejeje.md",
     "jeje/jejejejeje.md",
