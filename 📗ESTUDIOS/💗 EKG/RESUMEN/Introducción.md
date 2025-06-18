@@ -15,4 +15,5 @@ Al px se le pondrán electrodos en el cuerpo, y pueden ocurrir tres situaciones
 - si la onda no se aleja ni se acerca al electrodo se vería una onda bifasica(C)
 ![[Screenshot_20250618-144830~2.png]]
 Para entenderlo mejor seria algo asi las ondas
-- onda P: 
+- onda P: que es la despolarizacion de las auriculas va en dirección hacia el electrodo por eso se ve positiva
+- onda Q: es la despolarizacion del septum (haz de his se va hac)
