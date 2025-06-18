@@ -11,12 +11,14 @@
             "id": "ec237eb6d025b784",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "🎓 UNIVERSIDAD/🧫 MICROBIOLOGÍA/Microbiología.pdf"
+                "file": "jeje/jejejejeje.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Microbiología"
+              "icon": "lucide-file",
+              "title": "jejejejeje"
             }
           }
         ]
@@ -151,8 +153,10 @@
   },
   "active": "ec237eb6d025b784",
   "lastOpenFiles": [
-    "jeje/jejejjejeje.md",
     "🎓 UNIVERSIDAD/🧫 MICROBIOLOGÍA/Microbiología.pdf",
+    "jeje/jejejejeje.md",
+    "jeje",
+    "jeje/jejejjejeje.md",
     "jeje/Screenshot_20250617-192906~2 (1).png",
     "jeje/Screenshot_20250617-192906~2.png",
     "jeje/Screenshot_20250617-192706.png",
@@ -166,7 +170,6 @@
     "🎓 UNIVERSIDAD/🧟‍♀️ MEDICINA DEL ADULTO/🥀 NEUMOLOGÍA",
     "🎓 UNIVERSIDAD/🧟‍♀️ MEDICINA DEL ADULTO/🩷 CARDIOLOGÍA",
     "🎓 UNIVERSIDAD/🕵️‍♀️ INVESTIGACIÓN",
-    "🎓 UNIVERSIDAD/🧟‍♀️ MEDICINA DEL ADULTO",
     "📗ESTUDIOS/💗 EKG/ESQUEMA DE ESTUDIO/💛 EKG.md",
     "2025-06-17.md",
     "UNIVERSIDAD.md",
