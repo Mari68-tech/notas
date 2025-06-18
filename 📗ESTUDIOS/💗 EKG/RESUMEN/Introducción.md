@@ -12,5 +12,5 @@ Existe una teoría de vectores, la cual dice lo siguiente
 Al px se le pondrán electrodos en el cuerpo, y pueden ocurrir tres situaciones
 - Si la onda va hacia la direccion de ese electrodo entonces la onda se vera positiva en el EKG (A,B)
 - Si la onda se despolariza para el otro lado del electrodo se vería negativa (D,E)
-- si la onda no se aleja ni se acerca al electrodo se vería una onda bifasica
+- si la onda no se aleja ni se acerca al electrodo se vería una onda bifasica(C)
 ![[Screenshot_20250618-144830~2.png]]
