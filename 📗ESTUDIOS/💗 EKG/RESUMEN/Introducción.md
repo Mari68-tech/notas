@@ -36,5 +36,5 @@ Esto se ve asi si el electrodo está ahí donde se muestra, pero si se pone en o
 - V1,2,3,4,5,6: unipolares, las que estan en el tórax
 ![[v.jpg|400]]
 ## ¿Cómo miramos en corazón?
-
+Nos hablan por caras
 
