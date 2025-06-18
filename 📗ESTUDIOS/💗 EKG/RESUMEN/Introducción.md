@@ -38,5 +38,5 @@ Esto se ve asi si el electrodo está ahí donde se muestra, pero si se pone en o
 ## ¿Cómo miramos en corazón?
 Nos hablan por caras
 - V1,V2: caras septales
-- V3,V4: caras anteriores (apice)
+- V3,V4: caras anteriores (apicales)
 - V5,V6: caras lateral inferior (la superior la ve D1 y AVL)
