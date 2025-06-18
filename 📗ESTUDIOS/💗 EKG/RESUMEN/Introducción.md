@@ -4,5 +4,5 @@ Hay ciertas corrientes
 	- has anterior
 	- has de bachman: va hacia la auricula izquierda
 	- has internodales: va hacia los ventrículos 
-- 
+- nodo atrioventricular: se demora un poco aquí la corriente y va hacia el haz de 
 
