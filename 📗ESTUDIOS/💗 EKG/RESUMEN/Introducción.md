@@ -8,3 +8,4 @@ Hay ciertas corrientes
 ![[00002IMG_00002_BURST20250618121053.jpg|400x300]]
 Todos los impulsos electricos se traducen a ondas
 ![[IMG_20250618_143548.jpg|450x250]]
+Existe una teoría de vectores, la cual dice lo siguiente
