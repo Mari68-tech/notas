@@ -11,12 +11,14 @@
             "id": "ec237eb6d025b784",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "🎓 UNIVERSIDAD/🧫 MICROBIOLOGÍA/Microbiología.pdf"
+                "file": "📗ESTUDIOS/💗 EKG/RESUMEN/Sin título.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Microbiología"
+              "icon": "lucide-file",
+              "title": "Sin título"
             }
           }
         ]
@@ -151,8 +153,9 @@
   },
   "active": "ec237eb6d025b784",
   "lastOpenFiles": [
-    "jejeje.md",
     "🎓 UNIVERSIDAD/🧫 MICROBIOLOGÍA/Microbiología.pdf",
+    "📗ESTUDIOS/💗 EKG/RESUMEN/Sin título.md",
+    "jejeje.md",
     "Screenshot_20250617-203720.png",
     "_.trash",
     "Jelow.md",
