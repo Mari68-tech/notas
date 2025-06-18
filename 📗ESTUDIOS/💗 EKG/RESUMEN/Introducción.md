@@ -7,3 +7,4 @@ Hay ciertas corrientes
 - **nodo atrioventricular**: se demora un poco aquí la corriente y va hacia el has de his que se divide en dos derecho e izquierdo 
 ![[00002IMG_00002_BURST20250618121053.jpg|400x300]]
 Todos los impulsos electricos se traducen a ondas
+!
