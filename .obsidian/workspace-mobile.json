@@ -11,14 +11,12 @@
             "id": "ec237eb6d025b784",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "jeje/jejejjejeje.md",
-                "mode": "source",
-                "source": false
+                "file": "🎓 UNIVERSIDAD/🧫 MICROBIOLOGÍA/Microbiología.pdf"
               },
-              "icon": "lucide-file",
-              "title": "jejejjejeje"
+              "icon": "lucide-file-text",
+              "title": "Microbiología"
             }
           }
         ]
@@ -153,9 +151,9 @@
   },
   "active": "ec237eb6d025b784",
   "lastOpenFiles": [
+    "jeje/jejejjejeje.md",
     "🎓 UNIVERSIDAD/🧫 MICROBIOLOGÍA/Microbiología.pdf",
     "jeje/Screenshot_20250617-192906~2 (1).png",
-    "jeje/jejejjejeje.md",
     "jeje/Screenshot_20250617-192906~2.png",
     "jeje/Screenshot_20250617-192706.png",
     "jeje",
