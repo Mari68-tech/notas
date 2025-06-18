@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#sistema",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "f21d48978a0ea5d8",
@@ -152,7 +152,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ec237eb6d025b784",
+  "active": "d6b8016e0abd16cc",
   "lastOpenFiles": [
     "d.jpg",
     "av.jpg",
