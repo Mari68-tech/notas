@@ -11,14 +11,12 @@
             "id": "ec237eb6d025b784",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "📗ESTUDIOS/🩸 HEMOGRAMA/ESQUEMA DE ESTUDIO/🩸Hemograma.md",
-                "mode": "source",
-                "source": false
+                "file": "🎓 UNIVERSIDAD/🧫 MICROBIOLOGÍA/Microbiología.pdf"
               },
-              "icon": "lucide-file",
-              "title": "🩸Hemograma"
+              "icon": "lucide-file-text",
+              "title": "Microbiología"
             }
           }
         ]
@@ -151,10 +149,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d6b8016e0abd16cc",
+  "active": "ec237eb6d025b784",
   "lastOpenFiles": [
-    "JEJE.md",
     "📗ESTUDIOS/🩸 HEMOGRAMA/ESQUEMA DE ESTUDIO/🩸Hemograma.md",
+    "JEJE.md",
     "🎓 UNIVERSIDAD/🧟‍♀️ MEDICINA DEL ADULTO/🥀 NEUMOLOGÍA",
     "🎓 UNIVERSIDAD/IMAGENOLOGÍA/Sin nombre",
     "🎓 UNIVERSIDAD/🧟‍♀️ MEDICINA DEL ADULTO/💉 INMUNOLOGÍA",
