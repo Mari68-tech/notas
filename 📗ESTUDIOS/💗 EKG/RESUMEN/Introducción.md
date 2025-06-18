@@ -20,4 +20,16 @@ Para entenderlo mejor seria algo asi las ondas
 - onda R: se despolariza todo el ventrículos derecho, va hacia el electrodo por eso es positiva
 - onda S: despolarizacion del resto de los ventrículos que se alejan del electrodo por eso esta negativa
 ![[IMG_20250618_150037 (1).jpg|500]]
+Esto se ve asi si el electrodo está ahí donde se muestra, pero si se pone en otras partes las ondas se ven diferentes. Pero hay diferentes electrodos como se muestra aqui:
+## Electrodos
+- Horizontales: van a ser seis que se ponen en el tórax
+- Arriba y abajo: en ambos pies y manos
+
+## Derivaciones
+
+-  D1, D2, D3: son bipolares
+- aVR (right), aVL (left), aVF (foot): son unipolares aumentadas
+- V1,2,3,4,5,6: unipolares, las que estan en el tórax
+### Derivaciones bipolares
+
 
