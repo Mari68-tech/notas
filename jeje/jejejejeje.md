@@ -1,2 +1,2 @@
 
-![[hello_imagen.png]]
+![[hello.png]]
