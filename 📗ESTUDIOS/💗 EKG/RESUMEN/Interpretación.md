@@ -25,5 +25,7 @@ Aquí hay un aproximado de Masomenos que FC tiene la persona:
 	![[fc.png]]
 ### Irregular
 El electro dura 10 segundos, para sacar la FC se cuentan cuántas R hay en toda una hilera y se multiplica por 6 ( constante), así:
+![[fci.jpg|400]]
 
+# Eje
 
