@@ -42,3 +42,4 @@ Nos hablan por caras
 - V5,V6: caras lateral inferior (la superior la ve D1 y AVL)
 ![[cara (1) (1) (1).jpg|400]]
 ![[carass (1) (1).jpg|500]]
+![[ejeee.jpg]]
