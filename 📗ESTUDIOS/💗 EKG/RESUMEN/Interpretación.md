@@ -40,5 +40,5 @@ Pasos:
 3. La onda bifasica con que parejita esta, miramos ese electrodo en el EKG y vemos si esta positivo o negativo, ya ahí sabemos que eje es.
 ![[JJ.jpg|500]]
 ![[ejee.jpg]]
-
+ 
 
