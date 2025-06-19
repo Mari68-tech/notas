@@ -1,1 +1,1 @@
-Lo primero que debemos hacer es mirar si el 
+Lo primero que debemos hacer es preguntarse si el electro es normal
