@@ -16,3 +16,4 @@ Lo primero que debemos hacer es preguntarse si el electro es normal, para eso se
 Ver qué el ritmo si viene del nodo sinusal así:
 - ver en D2 y D1: onda P positiva 
 - ver en aVR: onda P negativa 
+
