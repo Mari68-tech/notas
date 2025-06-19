@@ -29,4 +29,4 @@ El electro dura 10 segundos, para sacar la FC se cuentan cuántas R hay en toda 
 
 ## EJE
 es saber en qué dirección se está despolarizando el corazón, en qué dirección van los impulsos del corazón, si va entre -30 y +110
-
+![[eje.jpg]]
