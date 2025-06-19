@@ -35,7 +35,7 @@ Para calcular el eje cardiaco se deberá mirar los siguientes vectores:
 - D1 y D2: positiva
 Si estas salen de esta forma en el EKG entonces sera un eje normal
 Pasos: 
-1. Buscamos en el EKG entre las D y las AV cual onda esta bifasica y la ponemos en el electro
+1. Buscamos en el EKG entre las D y las AV cual onda esta bifasica y la ponemos en el plano cartesiano
 2. Analizamos que electrodos estan a 90 grados de ese electrodo bifásico y miramos el cuadrito de abajo
 3. La onda bifasica con que parejita esta, miramos ese electrodo en el EKG y vemos si esta positivo o negativo, ya ahí sabemos que eje es.
 ![[JJ.jpg|500]]
