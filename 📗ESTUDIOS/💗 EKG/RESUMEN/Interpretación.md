@@ -18,4 +18,4 @@ Ver qué el ritmo si viene del nodo sinusal así:
 - ver en aVR: onda P negativa 
 
 ## FRECUENCIA
-
+![[formula.jpg]]
