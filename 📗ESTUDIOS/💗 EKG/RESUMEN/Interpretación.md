@@ -33,4 +33,4 @@ es saber en qué dirección se está despolarizando el corazón, en qué direcci
 Para calcular el eje cardiaco se deberá mirar los siguientes vectores:
 - aVR: negativo
 - D1 y D2: positiva
-- 
+Si estas salen de esta forma en el EKG entonces sera un eje normal
