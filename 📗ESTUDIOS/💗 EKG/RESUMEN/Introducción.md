@@ -41,4 +41,4 @@ Nos hablan por caras
 - V3,V4: caras anteriores (apicales)
 - V5,V6: caras lateral inferior (la superior la ve D1 y AVL)
 ![[cara (1) (1) (1).jpg|400]]
-![[]]
+![[carass (1) (1).jpg|500]]
