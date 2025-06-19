@@ -13,4 +13,5 @@ Lo primero que debemos hacer es preguntarse si el electro es normal, para eso se
 - ver la calibración: que las medidas sean 1mV x 25mm/segundo
 
 ## RITMO
-
+Ver qué el ritmo si viene del nodo sinusal así:
+- ver en 
