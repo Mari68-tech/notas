@@ -34,4 +34,4 @@ Para calcular el eje cardiaco se deberá mirar los siguientes vectores:
 - aVR: negativo
 - D1 y D2: positiva
 Si estas salen de esta forma en el EKG entonces sera un eje normal
-	Eje: si vemos aVR positiva y D1 y D2 negativa 
+	Eje: si vemos aVR positiva / D1 y D2 negativa (lo contrario)
