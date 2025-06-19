@@ -1,0 +1,1 @@
+Lo primero que debemos hacer es mirar si el 
