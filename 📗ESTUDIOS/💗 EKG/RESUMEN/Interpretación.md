@@ -10,4 +10,4 @@ Lo primero que debemos hacer es preguntarse si el electro es normal, para eso se
 ## CALIDAD
 ¿Cómo ver si está bien tomado el electro?
 - Que tenga un trazado isoelectrico, es decir que todo el electro tenga una misma linea continua, que pueda yo leerlo.
-- ver la calibracion
+- ver la calibración: que las medidas sean 1
