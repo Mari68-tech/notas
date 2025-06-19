@@ -24,5 +24,5 @@ Ver qué el ritmo si viene del nodo sinusal así:
 Aquí hay un aproximado de Masomenos que FC tiene la persona:
 	![[fc.png]]
 ### Irregular
-
+El electro dura 10 segundos, para sacar la 
 
