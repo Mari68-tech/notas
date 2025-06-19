@@ -23,4 +23,6 @@ Ver qué el ritmo si viene del nodo sinusal así:
 8 es el número de cajitas (cuadros grandes) que hay entre R y R, y 300 es la constante
 Aquí hay un aproximado de Masomenos que FC tiene la persona:
 	![[fc.png]]
+### Irregular
+
 
