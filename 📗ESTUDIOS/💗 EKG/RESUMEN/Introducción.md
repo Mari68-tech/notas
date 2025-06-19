@@ -40,4 +40,5 @@ Nos hablan por caras
 - V1,V2: caras septales
 - V3,V4: caras anteriores (apicales)
 - V5,V6: caras lateral inferior (la superior la ve D1 y AVL)
+![[cara (1) (1) (1).jpg|400]]
 ![[]]
