@@ -28,5 +28,5 @@ El electro dura 10 segundos, para sacar la FC se cuentan cuántas R hay en toda 
 ![[fci.jpg|400]]
 
 ## EJE
-es saber en qué dirección s
+es saber en qué dirección se está despolarizando el corazón, en qué dirección van los impulsos del corazón, pero aquí es en gene
 
