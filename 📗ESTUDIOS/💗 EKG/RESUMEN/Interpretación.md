@@ -8,4 +8,4 @@ Lo primero que debemos hacer es preguntarse si el electro es normal, para eso se
 - segmentos
 - intervalos 
 ## CALIDAD
-¿C
+¿Cómo ver si está bien tomado el electro?
