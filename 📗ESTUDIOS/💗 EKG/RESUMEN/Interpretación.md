@@ -56,5 +56,5 @@ Me debo preguntar lo siguiente:
 - ¿Como se ven?
 
 ### Onda P
-
+Se ven generalmente en todas las derivaciones, mas que nada en las positivas a excepción de V1, 
 
