@@ -55,4 +55,6 @@ Me debo preguntar lo siguiente:
 - ¿El alto, ancho?
 - ¿Como se ven?
 
-### 
+### Onda P
+
+
