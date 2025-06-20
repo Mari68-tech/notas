@@ -61,5 +61,7 @@ Se ven generalmente en todas las derivaciones y son casi siempre positivas a exc
 
 - ¿Están ahí? Y ¿Deberían estar ahí?  Si 
 - ¿Hacia que lado? Positivas, excepto en V1
-- ¿El alto, ancho? 
-- ¿Como se ven?
+- ¿El alto, ancho? 2,5 x 2,5 (si se altera esto se piensa en patologías que alteren auriculas como hipertrofia)
+- ¿Como se ven? Montañita
+
+
