@@ -64,4 +64,5 @@ Se ven generalmente en todas las derivaciones y son casi siempre positivas a exc
 - ¿El alto, ancho? 2,5 x 2,5 (si se altera esto se piensa en patologías que alteren auriculas como hipertrofia)
 - ¿Como se ven? Montañita
 
-
+### Onda Q
+Se ven en todas menos en V1, V2 y V3
