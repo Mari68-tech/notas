@@ -45,4 +45,4 @@ Pasos:
 Se mira AVF y D1
 ![[ejeje.jpg|400]]
 ### Nota importante
-!! Cuando tengamos un EKG con todas las derivaciones como muy parecidas )equifa
+!! Cuando tengamos un EKG con todas las derivaciones como muy parecidas (equifasicas) se le dice eje indeterminado y es muy común en personas con EPOC|@#˜€¬!"·$%&/()=?¿
