@@ -50,3 +50,9 @@ Se mira AVF y D1
 ## Ondas
 Me debo preguntar lo siguiente:
 - ¿Están ahí?
+- ¿Deberían estar ahí?
+- ¿Hacia que lado?
+- ¿El alto, ancho?
+- ¿Como se ven?
+
+### 
