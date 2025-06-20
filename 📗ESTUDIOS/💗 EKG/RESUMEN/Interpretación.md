@@ -66,3 +66,4 @@ Se ven generalmente en todas las derivaciones y son casi siempre positivas a exc
 
 ### Onda Q
 Se ven en todas menos en V1, V2 y V3
+ 
