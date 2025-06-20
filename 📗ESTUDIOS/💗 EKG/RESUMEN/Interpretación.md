@@ -44,4 +44,5 @@ Pasos:
 ### método sencillo para buscar el eje
 Se mira AVF y D1
 ![[ejeje.jpg|400]]
-
+### Nota importante
+!! Cuando tengamos un EKG con todas las derivaciones como muy parecidas )equifa
