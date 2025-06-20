@@ -48,3 +48,5 @@ Se mira AVF y D1
 !! Cuando tengamos un EKG con todas las derivaciones como muy parecidas (equifasicas) se le dice eje indeterminado y es muy común en personas con EPOC
 
 ## Ondas
+Me debo preguntar lo siguiente:
+- ¿Están ahí?
