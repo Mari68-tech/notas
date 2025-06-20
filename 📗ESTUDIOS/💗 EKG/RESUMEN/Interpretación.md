@@ -42,4 +42,5 @@ Pasos:
 ![[ejee.jpg]]
   
 ### método sencillo para buscar el eje
+Se mira AVF y D1
 
