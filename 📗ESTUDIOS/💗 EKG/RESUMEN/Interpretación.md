@@ -43,4 +43,5 @@ Pasos:
   
 ### método sencillo para buscar el eje
 Se mira AVF y D1
-![[]]
+![[ejeje.jpg|400]]
+
