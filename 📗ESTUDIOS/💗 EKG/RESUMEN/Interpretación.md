@@ -41,4 +41,5 @@ Pasos:
 ![[JJ.jpg|500]]
 ![[ejee.jpg]]
   
+### método sencillo para buscar el eje
 
