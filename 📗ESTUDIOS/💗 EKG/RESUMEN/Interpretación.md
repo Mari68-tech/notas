@@ -59,4 +59,8 @@ Me debo preguntar lo siguiente:
 Se ven generalmente en todas las derivaciones y son casi siempre positivas a excepción de V1, aqui la P se ve diferente (se ve como una onda bifasica, esto porque el nodo sinusal esta en la auricula derecha y despolariza esta auriculas acercándose a V1 (onda positiva) pero luego despolariza auricula izquierda y se aleja de V1 (onda negativa), pero esta onda bifasica la parte negativa y positiva deben ser del mismo tamaño, si son de diferentes es patologico) como se ve en la siguiente imagen.
 ![[ii.jpg|400]]
 
-
+- ¿Están ahí? si
+- ¿Deberían estar ahí?
+- ¿Hacia que lado?
+- ¿El alto, ancho?
+- ¿Como se ven?
