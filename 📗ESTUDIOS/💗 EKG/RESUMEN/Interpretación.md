@@ -65,5 +65,5 @@ Se ven generalmente en todas las derivaciones y son casi siempre positivas a exc
 - ¿Como se ven? Montañita
 
 ### Onda Q
-Se ven en todas menos en V1, V2 y V3
+Se ven en todas muy pequeñas y delgadas menos en V1, V2 y V3 aqui no se ven las
  
