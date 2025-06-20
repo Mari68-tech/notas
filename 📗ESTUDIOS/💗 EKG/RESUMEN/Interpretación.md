@@ -67,5 +67,8 @@ Se ven generalmente en todas las derivaciones y son casi siempre positivas a exc
 ### Onda Q
 Se ven en todas muy pequeñas y delgadas menos en V1, V2 y V3 aqui no se ven las Q
 Si se llegan a ver muy largas y delgadas en V5 y V6 podría la persona tener daño en el septum (cardiopatia congénita hipertrofica obstructiva o si la persona tiene cicatrices posinfarto)
-
+- ¿Están ahí? Y ¿Deberían estar ahí? No en V1 - V3
+- ¿Hacia que lado? ngativa
+- ¿El alto, ancho? 
+- ¿Como se ven?
  
