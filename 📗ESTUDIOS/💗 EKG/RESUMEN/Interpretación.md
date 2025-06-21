@@ -76,7 +76,6 @@ Si se llegan a ver muy largas y delgadas en V5 y V6 podría la persona tener da�
 Se ven muy diferentes en todas las derivaciones, deberian verse de la siguiente manera:
 - en D1, D2, D3 y AVF: positivas
 - en AVL: positiva pero pequeña
-- en AVR: negativa
+- en AVR: negativa (el impulso va hacia el otro lado)
 ![[jiji.png|400]]
-
- 
+- en 
