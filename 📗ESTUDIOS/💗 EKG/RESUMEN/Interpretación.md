@@ -74,5 +74,6 @@ Si se llegan a ver muy largas y delgadas en V5 y V6 podr√≠a la persona tener da√
 
 ### Onda R
 Se ven muy diferentes en todas las derivaciones, deberian verse de la siguiente manera:
-- 
+- en D1, D2, D3 y AVF: positivas
+- en AVL: positiva pe
  
