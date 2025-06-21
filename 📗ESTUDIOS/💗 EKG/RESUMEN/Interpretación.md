@@ -92,5 +92,7 @@ Nuestro criterio sera ver que ne un punto entre V2 - V4 haya una relación 1-1 d
 - ¿Como se ven? Delgada 
 
 ## Onda S
-En las derivacione
+- En las derivaciones de V: empieza grande y en V5 y V6 ya esta mas pequeña
+- En derivaciones de D1-D3 y AV: 
+
 
