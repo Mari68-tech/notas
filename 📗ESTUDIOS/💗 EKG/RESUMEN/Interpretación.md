@@ -91,4 +91,6 @@ Nuestro criterio sera ver que ne un punto entre V2 - V4 haya una relación 1-1 d
 - ¿El alto, ancho? Ancho de menos de 120 miliseg
 - ¿Como se ven? Delgada 
 
+## Onda S
+En las derivacione
 
