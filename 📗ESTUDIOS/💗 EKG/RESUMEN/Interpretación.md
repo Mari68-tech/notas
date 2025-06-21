@@ -74,4 +74,5 @@ Si se llegan a ver muy largas y delgadas en V5 y V6 podrÃ­a la persona tener daÃ
 
 ### Onda R
 Se ven muy diferentes en todas las derivaciones, deberian verse de la siguiente manera:
+- 
  
