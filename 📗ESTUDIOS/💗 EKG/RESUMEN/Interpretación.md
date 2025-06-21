@@ -88,6 +88,7 @@ Nuestro criterio sera ver que ne un punto entre V2 - V4 haya una relación 1-1 d
 
 - Están ahí? Y ¿Deberían estar ahí? Siempre estan
 - ¿Hacia que lado? Depende de derivacion 
-- ¿El alto, ancho? depende
+- ¿El alto, ancho? Ancho de menos de 120 miliseg
 - ¿Como se ven? Delgada 
+
 
