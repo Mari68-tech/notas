@@ -86,7 +86,7 @@ Algo que veremos en las V (precodiales) sera que hay una progresión de la R, es
 Nuestro criterio sera ver que ne un punto entre V2 - V4 haya una relación 1-1 de la R y la S.
 		Si observo algo que este alterando esa progresión de la R es por cosas que alteren el potencial del ventrículos izquierdo, como infartos o si hay progresión revertida se puede ver en bloqueos.
 
-- Están ahí? Y ¿Deberían estar ahí? No en V1 - V3
+- Están ahí? Y ¿Deberían estar ahí? Siempre estan
 - ¿Hacia que lado? ngativa
 - ¿El alto, ancho? 
 - ¿Como se ven? Pequeñas y delgadas
