@@ -78,9 +78,11 @@ Se ven muy diferentes en todas las derivaciones, deberian verse de la siguiente 
 - en AVL: positiva pero pequeña
 - en AVR: negativa (el impulso va hacia el otro lado)
 ![[jiji.png|400]]
+- V1- V6: positivas, progresivamente
+
 Algo que veremos en las V (precodiales) sera que hay una progresión de la R, es decir, la R a medida que el impulso va pasando de V1 - V6, se vuelve la R mas grande y la S mas pequeña, esto ocurre porque V1, V2, V3 estan mas hacia la derecha y la masa ventricular es mas pequeña, en cambio V4, V5, V6 estan hacia el lado izquierdo y ahi el ventrículos es mas grande (tiene mas fuerza).
 
 ### Nota
 Nuestro criterio sera ver que ne un punto entre V2 - V4 haya una relación 1-1 de la R y la S.
 		Si observo algo que este alterando esa progresión de la R es por cosas que alteren el potencial del ventrículos izquierdo, como infartos o si hay progresión revertida se puede ver en bloqueos.
-	
+
