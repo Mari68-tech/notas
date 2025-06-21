@@ -73,5 +73,5 @@ Si se llegan a ver muy largas y delgadas en V5 y V6 podría la persona tener da�
 - ¿Como se ven? Pequeñas y delgadas
 
 ### Onda R
-Se ve 
+Se ven muy diferentes en todas las derivaciones, deberian verse de la siguiente manera:
  
