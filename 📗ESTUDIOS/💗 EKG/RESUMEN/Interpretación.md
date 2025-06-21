@@ -95,6 +95,11 @@ Nuestro criterio sera ver que ne un punto entre V2 - V4 haya una relación 1-1 d
 - En las derivaciones de V: empieza grande y en V5 y V6 ya esta mas pequeña
 - En derivaciones de D1-D3 y AV: es muy pequeñita
 
+- Están ahí? Y ¿Deberían estar ahí? si
+- ¿Hacia que lado? Negativa 
+- ¿El alto, ancho? Ancho de menos de 120 miliseg
+- ¿Como se ven? Delgada 
+## Onda T
 
 
 
