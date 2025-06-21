@@ -77,5 +77,6 @@ Se ven muy diferentes en todas las derivaciones, deberian verse de la siguiente 
 - en D1, D2, D3 y AVF: positivas
 - en AVL: positiva pero pequeña
 - en AVR: negativa
+![[jiji.png|400]]
 
  
