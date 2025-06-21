@@ -78,4 +78,4 @@ Se ven muy diferentes en todas las derivaciones, deberian verse de la siguiente 
 - en AVL: positiva pero pequeña
 - en AVR: negativa (el impulso va hacia el otro lado)
 ![[jiji.png|400]]
-Algo que veremos en las V ()
+Algo que veremos en las V (precodiales) sera que hay una progresión de la R, es decir, la R a medida que el impulso va pasando de V1 - V6, se vuelve la R mas grande y la S mas pequeña, esto ocurre porque V1, V2, V3 estan mas hacia la derecha y la m
