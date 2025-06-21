@@ -78,4 +78,4 @@ Se ven muy diferentes en todas las derivaciones, deberian verse de la siguiente 
 - en AVL: positiva pero pequeña
 - en AVR: negativa (el impulso va hacia el otro lado)
 ![[jiji.png|400]]
-- en 
+Algo que veremos en las V ()
