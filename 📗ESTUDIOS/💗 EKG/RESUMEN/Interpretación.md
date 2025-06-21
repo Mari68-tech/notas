@@ -112,7 +112,8 @@ Se ubica entre diferentes ondas, no incluye las ondas, hay estos:
 - segmento PR:  esta es la linea de base, representa el tiempo en que tarda el impulso en llegar desde el nódulo sinusal hasta el AV. puede tener a veces infradesnivel en pericarditis
 - segmento ST: representa el periodo entre la despolarizacion ventricular y la repolarizacion ventricular definen los SCA. Debe estar en menos de un mm de la linea de base, excepto en V2-V3
 - segmento TP: esta se usa para indicar presencia de cardiopatia, representa el periodo de reposoelectrico del corazon entre ciclos cardiacos.
-![[segmentos (1).jpg|400]]
+
+![[segmentos (1).jpg|200]]
 
 ## Intervalos
 Incluyen ondas, hay estos:
@@ -121,4 +122,5 @@ Incluyen ondas, hay estos:
 - Intervalos QT: es la mitad del tiempo del R-R, QT prolongado ( mayor de 450-460)
 - Intervalo RR: seria la FC
 - Intervalo PP: frecuencia cardiaca auricular
-![[intervalos (1).jpg|400]]
+![[intervalos (1).jpg|200]]
+
