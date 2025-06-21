@@ -87,6 +87,7 @@ Nuestro criterio sera ver que ne un punto entre V2 - V4 haya una relación 1-1 d
 		Si observo algo que este alterando esa progresión de la R es por cosas que alteren el potencial del ventrículos izquierdo, como infartos o si hay progresión revertida se puede ver en bloqueos.
 
 - Están ahí? Y ¿Deberían estar ahí? Siempre estan
-- ¿Hacia que lado? ngativa
-- ¿El alto, ancho? 
-- ¿Como se ven? Pequeñas y delgadas
+- ¿Hacia que lado? Depende de derivacion 
+- ¿El alto, ancho? depende
+- ¿Como se ven? Delgada 
+
