@@ -91,15 +91,34 @@ Nuestro criterio sera ver que ne un punto entre V2 - V4 haya una relación 1-1 d
 - ¿El alto, ancho? Ancho de menos de 120 miliseg
 - ¿Como se ven? Delgada 
 
-## Onda S
+### Onda S
 - En las derivaciones de V: empieza grande y en V5 y V6 ya esta mas pequeña
 - En derivaciones de D1-D3 y AV: es muy pequeñita
 
 - Están ahí? Y ¿Deberían estar ahí? si
 - ¿Hacia que lado? Negativa 
-- ¿El alto, ancho? Ancho de menos de 120 miliseg
-- ¿Como se ven? Delgada 
-## Onda T
+- ¿El alto, ancho? Grandes V1-V3
+- ¿Como se ven? Pequeñas y delgadas
+### Onda T
+Que nunca supere el QRS, eso es anormal, normalmente no son negativas pero si se ve en AVR y V1 puede ser normales.
 
+- Están ahí? Y ¿Deberían estar ahí? si
+- ¿Hacia que lado? Positiva menos en AVR y V1 (pueden ser negativas ahi)
+- ¿El alto, ancho? Menor a QRS
+- ¿Como se ven? montaña
 
+## Segmentos
+Se ubica entre diferentes ondas, no incluye las ondas, hay estos:
+- segmento PR:  esta es la linea de base, representa el tiempo en que tarda el impulso en llegar desde el nódulo sinusal hasta el AV. puede tener a veces infradesnivel en pericarditis
+- segmento ST: representa el periodo entre la despolarizacion ventricular y la repolarizacion ventricular definen los SCA. Debe estar en menos de un mm de la linea de base, excepto en V2-V3
+- segmento TP: esta se usa para indicar presencia de cardiopatia, representa el periodo de reposoelectrico del corazon entre ciclos cardiacos.
+![[segmentos (1).jpg|400]]
 
+## Intervalos
+Incluyen ondas, hay estos:
+- Intervalos PR: 120-200 MLS, puede ser anormal si baja (síndromes preexitacion) o sube (bloqueos)
+- Intervalos QRS: menos o igual a 120 mls, mayor (bloqueos de rama)
+- Intervalos QT: es la mitad del tiempo del R-R, QT prolongado ( mayor de 450-460)
+- Intervalo RR: seria la FC
+- Intervalo PP: frecuencia cardiaca auricular
+![[intervalos (1).jpg|400]]
